@@ -1,0 +1,10 @@
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\bin\Debug\EJERCICIO GI.exe.config
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\bin\Debug\EJERCICIO GI.exe
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\bin\Debug\EJERCICIO GI.pdb
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO GI.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO_GI.Form1.resources
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO_GI.Properties.Resources.resources
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO GI.csproj.GenerateResource.cache
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO GI.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO GI.exe
+C:\Users\kevin\Documents\GitHub\EJERCICIO-GI\EJERCICIO GI\EJERCICIO GI\obj\Debug\EJERCICIO GI.pdb
